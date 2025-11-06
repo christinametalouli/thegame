@@ -1,5 +1,5 @@
 # thegame
-======================================This a very simple game for Techpro Academy Pre Bootcamp 2025==================================<br>
+This a very simple game for Techpro Academy Pre Bootcamp 2025<br>
 Open your VS Code and ubuntu Terminal in it <br>
 Clone this repository<br>
 The repository contents two files. This readme and another one...
@@ -9,4 +9,4 @@ If you look closer you will figure out that with some minor changes in the code 
 Let me know your unigue result by forking  the repository below in your github account<br>
 https://github.com/xpaulos/secret <br>
 write the your result in the README.md,push the changes and submit a pull request to me.<br>
- =======================================Maybe there is a price at the end of the merge.==============================================<br>
+Maybe there is a price at the end of the merge.<br>
